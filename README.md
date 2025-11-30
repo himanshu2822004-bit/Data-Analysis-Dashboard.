@@ -53,13 +53,13 @@ Integrate the data into reports or BI tools for deeper insights.
 You may enhance this dataset by adding:
 
 Month-wise or year-wise sales
-
-
-Author: Himanshu kaushik
-
 Product categories
 
 Visual charts
 
 KPIs like growth %, averages, highest/lowest performers
+
+Author: Himanshu kaushik
+
+
   
