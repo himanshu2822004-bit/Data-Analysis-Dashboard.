@@ -4,6 +4,13 @@ We wants to create an annual sales report for 2025-2026, so that the owner of th
 
 ## Dataset Used
 - <a href="https://github.com/himanshu2822004-bit/Data-Analysis-Dashboard./blob/main/Himanshu%20Kaushik.xlsx">Dataset</a>
+
+## Dashboard
+<img width="944" height="509" alt="Screenshot 2025-11-30 213702" src="https://github.com/user-attachments/assets/30be627d-f0a8-4a2a-b0e0-55fca1ad8e01" />
+
+
+
+
 README
 📌 Overview
 
@@ -60,6 +67,19 @@ Visual charts
 KPIs like growth %, averages, highest/lowest performers
 
 Author: Himanshu kaushik
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
