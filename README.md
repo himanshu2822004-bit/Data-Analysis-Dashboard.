@@ -22,8 +22,6 @@ Central	341007.5242
 East	450234.666
 South	252121.081
 
-Author: Himanshu kaushik
-
 ⚠️ The actual file may contain additional regions or data rows.
 
 🎯 Purpose of This File
@@ -55,6 +53,9 @@ Integrate the data into reports or BI tools for deeper insights.
 You may enhance this dataset by adding:
 
 Month-wise or year-wise sales
+
+
+Author: Himanshu kaushik
 
 Product categories
 
