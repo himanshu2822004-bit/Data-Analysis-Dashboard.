@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard.
-i developed a comprehensive project in Excel, creating multiple dashboard and tables to analyze the data. This process ivolved several stages, including data processing , data clearing ,and data visualization.
+#SALES SUMMARY FINANCIAL YEAR 2025-2026
+##PROJECT OBJECTIVE 
+We wants to create  CREATE an annual sales report for 2025-2026, so that the owner of the company can understand their customers and grow more sales in next year.
